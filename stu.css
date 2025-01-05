@@ -7,6 +7,24 @@ h1{
     background-image: url(ss.jpg);
     background-size: cover;
     text-align: center;
+}
+#form{
+    color: black;
 
+}
+.f{
+    margin: 250px;
+    margin-top: 20px;
+}
+#b{
+    font-size: 15px;
+    color: red;
+    margin: 2px;
+}
+button{
+    font-size: 15px;
+    color: green;
+    margin: 100px;
+    margin-top: 5px;
 }
  
